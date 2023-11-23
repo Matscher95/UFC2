@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+header{
+    background-color:lightgoldenrodyellow;
+    padding-left: 15px;
+    border-left: 7px solid darkred;
+}
+
+h1 {
+    color: darkred
+}
